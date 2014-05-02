@@ -28,6 +28,10 @@ http.createServer(function handler(req, res) {
 			if (item[2] == 'm')
 				newData.push(item);
 		}); 
+	} else {
+		data.forEach(function(item){
+			newData.push(item);
+		});
 	}
 
 	console.log(newData);
