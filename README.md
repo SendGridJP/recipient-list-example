@@ -1,5 +1,3 @@
-
-
 # recipient_list_example
 
 
