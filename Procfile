@@ -1,1 +1,1 @@
-web: node recipient-list-server.js
+web: node server.js

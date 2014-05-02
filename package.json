@@ -2,10 +2,10 @@
   "name": "recipient_list_example",
   "version": "0.1.0",
   "description": "recipient_list_example",
-  "main": "recipient-list-server.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1",
-    "start": "node recipient-list-server.js"
+    "start": "node server.js"
   },
   "repository": "https://github.com/sendgridjp/recipient-list-example.git",
   "keywords": [
